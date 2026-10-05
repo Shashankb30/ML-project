@@ -1,0 +1,10 @@
+data/*
+data_synth/
+checkpoints/*
+!data/.gitkeep
+!checkpoints/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.pytest_cache/
